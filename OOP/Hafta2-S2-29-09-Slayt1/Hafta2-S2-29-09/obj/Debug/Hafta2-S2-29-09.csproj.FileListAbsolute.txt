@@ -1,0 +1,8 @@
+S:\Cem Sinan\C#_NET\Hafta2-S2-29-09\Hafta2-S2-29-09\bin\Debug\Hafta2-S2-29-09.exe.config
+S:\Cem Sinan\C#_NET\Hafta2-S2-29-09\Hafta2-S2-29-09\bin\Debug\Hafta2-S2-29-09.exe
+S:\Cem Sinan\C#_NET\Hafta2-S2-29-09\Hafta2-S2-29-09\bin\Debug\Hafta2-S2-29-09.pdb
+S:\Cem Sinan\C#_NET\Hafta2-S2-29-09\Hafta2-S2-29-09\obj\Debug\Hafta2-S2-29-09.csproj.AssemblyReference.cache
+S:\Cem Sinan\C#_NET\Hafta2-S2-29-09\Hafta2-S2-29-09\obj\Debug\Hafta2-S2-29-09.csproj.CoreCompileInputs.cache
+S:\Cem Sinan\C#_NET\Hafta2-S2-29-09\Hafta2-S2-29-09\obj\Debug\Hafta2-S2-29-09.exe
+S:\Cem Sinan\C#_NET\Hafta2-S2-29-09\Hafta2-S2-29-09\obj\Debug\Hafta2-S2-29-09.pdb
+S:\Cem Sinan\C#_NET\Hafta2-S2-29-09\Hafta2-S2-29-09\obj\Debug\Hafta2-S2-29-09.exe.config
