@@ -1,0 +1,8 @@
+S:\Cem Sinan\C#_NET\Hafta2-S2-29-09-Slayt2\Hafta2-S2-29-09-Slayt2\bin\Debug\Hafta2-S2-29-09-Slayt2.exe.config
+S:\Cem Sinan\C#_NET\Hafta2-S2-29-09-Slayt2\Hafta2-S2-29-09-Slayt2\bin\Debug\Hafta2-S2-29-09-Slayt2.exe
+S:\Cem Sinan\C#_NET\Hafta2-S2-29-09-Slayt2\Hafta2-S2-29-09-Slayt2\bin\Debug\Hafta2-S2-29-09-Slayt2.pdb
+S:\Cem Sinan\C#_NET\Hafta2-S2-29-09-Slayt2\Hafta2-S2-29-09-Slayt2\obj\Debug\Hafta2-S2-29-09-Slayt2.csproj.AssemblyReference.cache
+S:\Cem Sinan\C#_NET\Hafta2-S2-29-09-Slayt2\Hafta2-S2-29-09-Slayt2\obj\Debug\Hafta2-S2-29-09-Slayt2.csproj.CoreCompileInputs.cache
+S:\Cem Sinan\C#_NET\Hafta2-S2-29-09-Slayt2\Hafta2-S2-29-09-Slayt2\obj\Debug\Hafta2-S2-29-09-Slayt2.exe
+S:\Cem Sinan\C#_NET\Hafta2-S2-29-09-Slayt2\Hafta2-S2-29-09-Slayt2\obj\Debug\Hafta2-S2-29-09-Slayt2.pdb
+S:\Cem Sinan\C#_NET\Hafta2-S2-29-09-Slayt2\Hafta2-S2-29-09-Slayt2\obj\Debug\Hafta2-S2-29-09-Slayt2.exe.config
