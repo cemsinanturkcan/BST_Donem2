@@ -1,0 +1,8 @@
+S:\Cem\OOP\Hafta9_Collections\bin\Debug\Hafta9_Collections.exe.config
+S:\Cem\OOP\Hafta9_Collections\bin\Debug\Hafta9_Collections.exe
+S:\Cem\OOP\Hafta9_Collections\bin\Debug\Hafta9_Collections.pdb
+S:\Cem\OOP\Hafta9_Collections\obj\Debug\Hafta9_Collections.csproj.AssemblyReference.cache
+S:\Cem\OOP\Hafta9_Collections\obj\Debug\Hafta9_Collections.csproj.CoreCompileInputs.cache
+S:\Cem\OOP\Hafta9_Collections\obj\Debug\Hafta9_Collections.exe
+S:\Cem\OOP\Hafta9_Collections\obj\Debug\Hafta9_Collections.pdb
+S:\Cem\OOP\Hafta9_Collections\obj\Debug\Hafta9_Collections.exe.config
